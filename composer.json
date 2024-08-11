@@ -27,7 +27,7 @@
     ],
     "require": {
         "php": ">=8.1",
-        "basis-company/nats": "^0.23.0",
+        "basis-company/nats": "^0.24",
         "laravel/framework": ">=8 ^11"
     },
     "extra": {
